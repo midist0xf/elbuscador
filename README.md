@@ -1,2 +1,2 @@
-# elbuscador
+# Elbuscador
 Web Technologies course project
